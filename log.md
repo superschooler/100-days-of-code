@@ -1,30 +1,109 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 9, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+It's time for me to seriously look at a career change, and coding is a top prospect. Landing a job in web development, software development, or data analytics seems far-fetched for a guy with a criminal justice degree, background in mortgage sales, and limited coding knowledge. So, my goal with this 100-day challenge is to see how I feel about coding after 100+ hours of consistent learning and practice, as well as get my name and experience in front of people in the industry who may be able to help me land a job. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+The #100daysofcode rules are simple:
+1. Code minimum an hour every day for the next 100 days.
+2. Tweet your progress every day with the #100DaysOfCode hashtag.
 
-**Link to work:** [Calculator App](http://www.example.com)
+I'll need a bit of grace with rule #1 in July since I'm getting married and will be out of town for a couple of weeks. Nothing says "thanks for marrying me" like spending your honeymoon on a laptop learning to code.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Because I wanted to get started now, I'm going to begin tracking my progress and adhering as close to the rules as possible, while still making sure I'm prepared for the wedding.
 
 
-### Day 1: June 27, Monday
+I'm going to begin learning via freeCodeCamp.com since it's a free resource. I've used it and Codecademy in the past and am definitely a bigger fan of Codecademy, but don't want to spend money on it at the moment. I also have Jon Duckett's books on HTML & CSS and Javascript & JQuery, and plan to use them both as resources, along with any other online resources I stumble across.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+In the past, I've learned HTML & CSS fairly well but always get stumped on JavaScript. To combat this, I plan to practice as much as possible and go above and beyond any example exercises I'm given to really cement the knowledge.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+Here's to coding!
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 1: June 10, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 2: June 11, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 3: June 12, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 4: June 13, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 5: June 14, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 6: June 15, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 7: June 16, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 8: June 17, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 9: June 18, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 10: June 19, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
