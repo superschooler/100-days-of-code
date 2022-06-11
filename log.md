@@ -25,7 +25,8 @@ Here's to coding!
 
 **Thoughts**: I'm excited to learn more about CSS - I've never considered myself an overly creatve person and have struggled with intermediate/advanced CSS in the past. Looking forward at some of the projects it seems like I'll quickly become an expert in CSS through this course. The cafe menu exercise was easy for me and the colored markers exercise was interesting to work through and learn about gradients, how colors work (hsl vs rgb vs hex), and see a neat finished project. 
 
-**Link(s) to work**: Coming soon, need to figure out how to push to GitHub or get my website hosted again.
+**Link(s) to work**: https://www.brianschooler.com/projects/cafemenu/index.html
+https://www.brianschooler.com/projects/coloredmarkers/index.html
 
 
 ### Day 2: June 11, 2022
