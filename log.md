@@ -29,13 +29,14 @@ Here's to coding!
 https://www.brianschooler.com/projects/coloredmarkers/index.html
 
 
-### Day 2: June 11, 2022
+### Day 2: June 12, 2022
 
-**Today's Progress**:
+**Today's Progress**: Finished registration form project from freeCodeCamp, finished survey form solo project
 
-**Thoughts**:
+**Thoughts**: There's a lot involved to CSS, it took a long time remembering all the specifics, like box displays, formatting forms properly, etc. It took me a little while to get the form just right in HTML too, but I used Jon Duckett's book HTML & CSS as a great resource so I wasn't just copying code off other forms.
 
-**Link(s) to work**:
+**Link(s) to work**: https://www.brianschooler.com/projects/registrationform/index.html
+https://www.brianschooler.com/projects/surveyform/index.html
 
 
 ### Day 3: June 12, 2022
