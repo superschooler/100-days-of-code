@@ -39,70 +39,19 @@ https://www.brianschooler.com/projects/coloredmarkers/index.html
 https://www.brianschooler.com/projects/surveyform/index.html
 
 
-### Day 3: June 12, 2022
+### Day 3: June 14, 2022
 
-**Today's Progress**:
+**Today's Progress**: Finished freeCodeCamp's Rothko Painting, Photo Gallery, and Nutrition Label exercises.
 
-**Thoughts**:
+**Thoughts**: While it's great being introduced to new concepts, I feel like I'm just following a recipe rather than having to critically think about the code I'm writing, problem-solve, etc. It's extremely easy for me to follow the prompts without errors or confusion, but I don't think it's doing a lot to sharpen my CSS skills. Because of that, tomorrow's coding time is going to be dedicated towards going through all of the projects I've done so far, starting at the beginning, and adding, removing, or modifying some code to play around with it. While in the code, I'm going to work on commenting nearly every line to explain what it does and help me truly understand how it all comes together, as well as providing a good reference for me to come back to at a later date. I also want to learn about writing technical documentation and begin writing some for my code.
 
-**Link(s) to work**:
-
-
-### Day 4: June 13, 2022
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://www.brianschooler.com/projects/rothkopainting/index.html
+https://www.brianschooler.com/projects/photogallery/index.html
+https://www.brianschooler.com/projects/nutritionlabel/index.html
 
 
-### Day 5: June 14, 2022
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-
-### Day 6: June 15, 2022
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-
-### Day 7: June 16, 2022
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-
-### Day 8: June 17, 2022
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-
-### Day 9: June 18, 2022
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-
-### Day 10: June 19, 2022
+// TEMPLATE
+### Day 100: June 1, 2022
 
 **Today's Progress**:
 
